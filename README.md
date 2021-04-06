@@ -9,3 +9,7 @@ PHP WHOIS client implementation. Sends the queries directly to the WHOIS service
 <li>php-mbstring</li>
 <li>Open port <strong>43</strong> in firewall</li>
 </ul>
+
+Example Images:
+![1](https://raw.githubusercontent.com/Barracuda1337/Whois/main/screenshots/2021-04-06%20185155.png)
+![1](https://raw.githubusercontent.com/Barracuda1337/Whois/main/screenshots/2021-04-06%20185303.png)
